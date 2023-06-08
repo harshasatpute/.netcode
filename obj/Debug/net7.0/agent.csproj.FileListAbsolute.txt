@@ -1,0 +1,15 @@
+C:\jenkins_slave_node\workspace\agent\bin\Debug\net7.0\agent.exe
+C:\jenkins_slave_node\workspace\agent\bin\Debug\net7.0\agent.deps.json
+C:\jenkins_slave_node\workspace\agent\bin\Debug\net7.0\agent.runtimeconfig.json
+C:\jenkins_slave_node\workspace\agent\bin\Debug\net7.0\agent.dll
+C:\jenkins_slave_node\workspace\agent\bin\Debug\net7.0\agent.pdb
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\agent.csproj.AssemblyReference.cache
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\agent.AssemblyInfoInputs.cache
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\agent.AssemblyInfo.cs
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\agent.csproj.CoreCompileInputs.cache
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\agent.dll
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\refint\agent.dll
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\agent.pdb
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\agent.genruntimeconfig.cache
+C:\jenkins_slave_node\workspace\agent\obj\Debug\net7.0\ref\agent.dll
